@@ -1,0 +1,1 @@
+To view this application first thing clone it from this repositoty, run it and view it in browser at localhost:3000
